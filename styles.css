@@ -153,7 +153,7 @@ select[data-category="Initiative"] {
 
 .c1 input[type="text"] {
     position: relative;
-    left: 110px;
+    left: 85px;
     top: -30px;
     width: 125px;
     margin-left: 50px;
@@ -161,7 +161,7 @@ select[data-category="Initiative"] {
 
 .c2 input[type="text"] {
     position: relative;
-    left: 85px;
+    left: 110px;
     top: -30px;
     width: 125px;
 }
