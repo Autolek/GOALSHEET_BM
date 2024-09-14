@@ -118,7 +118,7 @@ var ecData = {
     "A02063": { "name": "MONU", "department": "Production", "email": "monumahor01275@gmail.com" },
     "A01565": { "name": "MUKESH", "department": "Production", "email": "mukeshkaushik815@gmail.com" },
     "A01821": { "name": "MUKESH", "department": "Production", "email": "mk995387@gmail.com" },
-    "A02350": { "name": "MUKESH KUMAR", "department": "Personnel & admin", "email": "manojvashisth902gmail.com" },
+    "A02350": { "name": "MUKESH KUMAR", "department": "Personnel & admin", "email": "manojvashisth90@gmail.com" },
     "A00101": { "name": "MUSTAK ALI", "department": "Purchase", "email": "mushtak@autolek.com" },
     "A00759": { "name": "NAIMUDDIN ANSARI", "department": "Store", "email": "nansari@autolek.com" },
     "L00278": { "name": "NARENDER SINGH", "department": "Production", "email": "narender.s.kadyan@gmail.com" },
