@@ -74,7 +74,7 @@ var ecData = {
     "L00821": { "name": "HAR KANWAR", "department": "Production", "email": "harkanwaruhaiya@gmail.com" },
     "A00314": { "name": "HARENDER PRATAP", "department": "Production", "email": "harendra97166@gmail.com" },
     "A01526": { "name": "HARISH KUMAR", "department": "Production", "email": "285hsheoran@gmail.com" },
-    "A01842": { "name": "HARKESH", "department": "Quality", "email": "harkeshrawat639@gmail.com" },
+    "A01842": { "name": "HARKESH", "department": "Vendor Development", "email": "harkeshrawat639@gmail.com" },
     "A01556": { "name": "HEMANT SINGH", "department": "Quality", "email": "hemu_singh_@rediffmail.com" },
     "A02273": { "name": "HIMANSHU", "department": "R&D", "email": "HRchauhan840@gmail.com" },
     "A01774": { "name": "HITESH", "department": "TOOL ROOM", "email": "hiteshv.t.i.123@gmail.com" },
