@@ -379,7 +379,6 @@ var ecData = {
     "EV0013": { "name": "Rahul Arjun Patil", "department": "Vendor Development", "email": "rahulapatil357@gmail.com" },
     "EV0014": { "name": "Atul Kr. Gautam", "department": "R&D", "email": "atulgautam.00@gmail.com" },
     "EV0015": { "name": "Rajendra Prasad Yadav", "department": "R&D", "email": "rajendrayadav971613@gmail.com" },
-    "EV0016": { "name": "Deepak Nayak", "department": "Vendor Developement", "email": "deepaknayak818@gmail.com" },
     "NAPP001": { "name": "SALONI", "department": "Production", "email": "salonikasyap335@gmail.com" },
     "NAPP002": { "name": "VARSHA", "department": "Production", "email": "varshathakur52007@gmail.com" },
     "NAPP003": { "name": "RADHA SAINI", "department": "Production", "email": "sainiradhasaini2003@gmail.com" },
