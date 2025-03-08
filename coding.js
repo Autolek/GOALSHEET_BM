@@ -302,6 +302,7 @@ var ecData = {
     "A02376": { "name": "Manish Yadav", "department": "Export", "email": "manishyadav09.my@gmail.com" },
     "A02375": { "name": "Bharti Sakhela", "department": "Quality", "email": "bhartishankhla3496@gmail.com" },
     "A02371": { "name": "Deepak Bhatnagar", "department": "Quality", "email": "deepak.bhatnagar85@gmail.com" },
+    "A02373": { "name": "Kajal Verma", "department": "R&D", "email": "kv33518@gmail.com" },
     "NAP001": { "name": "ZAHIR AHMAD", "department": "Quality", "email": "zahirahmed639890@gmail.com" },
     "NAP002": { "name": "AMIT", "department": "Quality", "email": "amit817188859@gmail.com" },
     "NAP003": { "name": "SNEHA KUMARI", "department": "Production", "email": "angel1435neha@gmail.com" },
@@ -406,8 +407,7 @@ var ecData = {
 "NAT046": { "name": "Shailesh Kmar", "department": "Production", "email": "sshaileshkkumar43@gmail.com" },
 "NAT047": { "name": "Sahil Tanwar", "department": "Production", "email": "sahiltanwar90226@gmail.com" },
 "NAT048": { "name": "Aman Saini", "department": "Production", "email": "amanssaini0326@gmail.com" },
-"NAT049": { "name": "Vikash Singh", "department": "Digitalization", "email": "info@autolek.com" },
-    "A02373": { "name": "Kajal Verma", "department": "R&D", "email": "kv33518@gmail.com" }
+"NAT049": { "name": "Vikash Singh", "department": "Digitalization", "email": "info@autolek.com" }
    };
    
    function filterOptions() {
