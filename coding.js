@@ -406,7 +406,8 @@ var ecData = {
 "NAT046": { "name": "Shailesh Kmar", "department": "Production", "email": "sshaileshkkumar43@gmail.com" },
 "NAT047": { "name": "Sahil Tanwar", "department": "Production", "email": "sahiltanwar90226@gmail.com" },
 "NAT048": { "name": "Aman Saini", "department": "Production", "email": "amanssaini0326@gmail.com" },
-"NAT049": { "name": "Vikash Singh", "department": "Digitalization", "email": "info@autolek.com" }
+"NAT049": { "name": "Vikash Singh", "department": "Digitalization", "email": "info@autolek.com" },
+    "A02373": { "name": "Kajal Verma", "department": "R&D", "email": "kv33518@gmail.com" }
    };
    
    function filterOptions() {
